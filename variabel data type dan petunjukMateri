@@ -1,0 +1,7 @@
+Variabel
+-> digunakan untuk menyimpan data
+-> tidak ada perintah untuk mendeklarasikan variabel seperti bahasa lainnya (var, int, double, dll).
+-> Variabel harus diawali dengan huruf.
+-> tidak boleh diawali dengan angka atau underscore _.
+->Nama variabelnya case sensitive.
+-> dilarag menggunakan R sebagai kata kunci.
